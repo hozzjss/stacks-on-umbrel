@@ -12,8 +12,8 @@ events_keys = ["*"]
 [burnchain]
 chain = "bitcoin"
 mode = "mainnet"
-peer_host = "APP_BITCOIN_NODE_IP"
-username = "APP_BITCOIN_RPC_USER"
-password = "APP_BITCOIN_RPC_PASS"
-rpc_port = APP_BITCOIN_RPC_PORT
-peer_port = APP_BITCOIN_P2P_PORT
+peer_host = "bitcoin.mainnet.stacks.org"
+username = "stacks"
+password = "foundation"
+rpc_port = 8332
+peer_port = 8333

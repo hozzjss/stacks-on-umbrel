@@ -4,10 +4,10 @@ category: Stacks
 name: Stacks Node
 version: "2.5.0.0.3"
 icon: https://cryptologos.cc/logos/stacks-stx-logo.svg?v=029
-tagline: Stacks 2.5.0.0.3 is a bitcoin layer blockchain that connects to bitcoin for security and enables decentralized apps and predictable smart contracts. 
+tagline: Stacks 2.5.0.0.3 is a bitcoin layer blockchain that connects to bitcoin for security and enables decentralized apps and predictable smart contracts.
 description: >-
   - !!!! WARNING. Beta Software. !!!!! Works only on Intel CPUs like Umbrel Home !!!! 
-  
+
   - Stacks 2.5 is a bitcoin layer blockchain that connects to bitcoin for security and enables decentralized apps and predictable smart contracts. 
 
 
@@ -22,8 +22,7 @@ description: >-
 developer: Stacks
 website: https://stacks.co/
 submitter: Jasper
-dependencies:
-  - bitcoin
+dependencies: []
 repo: https://github.com/stacks-network/stacks-blockchain
 support: https://discord.gg/XyZBbYh3kT
 port: 3998
